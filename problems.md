@@ -11,21 +11,32 @@ description: >-
 [Discord сервере](https://discord.gg/CHTchRR9Dz).
 
 > Q - вопрос
+> 
 > A - ответ
 
+
 > Q: Как пригласить бота?
+> 
 > A: [нажмите сюда](https://discord.com/api/oauth2/authorize?client_id=732117360160538654&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FRPb2KXN&scope=bot).
 
+
 > Q: Как добавить роли для магазина?
+> 
 > A: `g!shop add`, затем упомянуть роль, указать цену и затем описание.
-> A: Для удаления надо набрать `g!shop delete роль`.
+> Для удаления надо набрать `g!shop delete роль`.
+
 
 > Q: Как купить фон и применить его?
+> 
 > A: `g!bg-buy` и затем `g!bg`.
 
+
 > Q: Как отключить ненужную категорию?
+> 
 > A: `g!disable module категория`
 
+
 > Q: Я хочу улучшить документацию, куда присылать изменения?
+> 
 > A: [Сюда](https://github.com/nevzorl/docs.gamemax.top).
 
